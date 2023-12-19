@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @umer122
-- 🌱 I’m currently learning Angular Js 
+- 👋Hi, I'm Umer Ali, an Angular developer passionate about creating dynamic and efficient web applications.
 - 📫 How to reach me malikumerali321@gmail.com
 
 <!---
