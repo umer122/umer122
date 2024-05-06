@@ -1,5 +1,5 @@
 - 👋Hi, I'm Umer Ali, an Angular developer passionate about creating dynamic and efficient web applications.
-- 📫 How to reach me malikumerali321@gmail.com
+- 📫 How to reach me umeralidev9@gmail.com
 
 <!---
 umer122/umer122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
